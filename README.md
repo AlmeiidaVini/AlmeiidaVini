@@ -1,5 +1,4 @@
 ## Olá!! Sou Pedro Vinícius
----
 
 - 📚 Estudante de Ciência da Computação
 - 🌱 Aprendendo Mobile Conding
